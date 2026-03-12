@@ -23,8 +23,9 @@ terraform/
 Za pokretanje, pozicionirajte se u root direktorijum (`terraform/`) i izvrsiti sledece komande:
 
 1. cd terraform
-2. terraform init
-3. terraform plan
+2. srediti terraform.tfvars fajl prema primeru
+3. terraform init
+4. terraform plan
 
 ---
 
